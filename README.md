@@ -2,6 +2,8 @@
 ```bash
 pip install uv
 ```
+Ноду на винде не знаю как ставить, почитай.
+
 В папке backend для запуска
 ```bash
 uv run uvicorn src.main:app
